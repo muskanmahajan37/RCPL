@@ -1,2 +1,2 @@
-# rcpl
-Assignments done under RCPL during Core Java Summer Training
+# Core Java Sample Codes
+#### Assignments done by me under RCPL during Core Java Summer Training
